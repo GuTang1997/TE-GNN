@@ -1,23 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 22 02:39:41 2020
-
-@author: Hasee
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 26 16:33:43 2020
-
-@author: Hasee
-"""
 
 #!/usr/bin/env python36
 # -*- coding: utf-8 -*-
 """
-Created on July, 2018
-
-@author: Tangrizzly
+@author: Gu Tang
 """
 
 import datetime
